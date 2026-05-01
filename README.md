@@ -18,11 +18,12 @@ We welcome members from all skill levels to participate actively in our open, in
 Whether you are an expert or just beginning your journey with Ansible and `your collection name`,
 you are encouraged to contribute, share insights, and collaborate with fellow enthusiasts!
 
-## Code of Conduct
+## Community standards
 
-We follow the [Ansible Code of Conduct](https://docs.ansible.com/projects/ansible/devel/community/code_of_conduct.html) in all our interactions within this project.
+This project abides by the following policies:
 
-If you encounter abusive behavior, please refer to the [policy violations](https://docs.ansible.com/projects/ansible/devel/community/code_of_conduct.html#policy-violations) section of the Code for information on how to raise a complaint.
+* [Ansible Code of Conduct](https://docs.ansible.com/projects/ansible/devel/community/code_of_conduct.html)
+* [Ansible Community Policy for AI-Assisted Contributions](https://docs.ansible.com/projects/ansible/devel/community/ai_policy.html)
 
 ## Communication
 
